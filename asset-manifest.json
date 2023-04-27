@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather_forcast_with_image_chages/static/css/main.1a19dc65.css",
+    "main.js": "/weather_forcast_with_image_chages/static/js/main.ac74131a.js",
+    "index.html": "/weather_forcast_with_image_chages/index.html",
+    "main.1a19dc65.css.map": "/weather_forcast_with_image_chages/static/css/main.1a19dc65.css.map",
+    "main.ac74131a.js.map": "/weather_forcast_with_image_chages/static/js/main.ac74131a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a19dc65.css",
+    "static/js/main.ac74131a.js"
+  ]
+}
